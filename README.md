@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **thivasel@gmail.com**
 
-- 📄 Know about my experiences [5+ Years experience in WordPress](5+ Years experience in WordPress)
+- 📄 Know about my experiences 5+ Years in WordPress
 
 - ⚡ Fun fact **Everything in the world is connected in some way**
 
