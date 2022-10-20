@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm thivaharan selvanayagam</h1>
 <h3 align="center">A passionate Wordpress developer from Srilanka</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+#
 - 🔭 I’m currently working on **Bank classifying project**
 
 - 🌱 I’m currently learning **React, Flutter**
@@ -40,9 +40,9 @@
    
 <br>
 <br>
-<a target="_blank" href="https://www.linkedin.com/in/anduleh/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:andrewmyli96@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="https://www.andrewli.info/"><img src="https://img.shields.io/badge/-resume-003366?style=for-the-badge&logo=iCloud&logoColor=white"></img></a>
+<a target="_blank" href="/www.linkedin.com/in/thivaharan-selvanayagam-65a38595/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:thivasel@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="https://www.mattakalappu.com/author"><img src="https://img.shields.io/badge/-resume-003366?style=for-the-badge&logo=iCloud&logoColor=white"></img></a>
 <br>
 
 </p> 
